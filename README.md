@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lucie Poláchová.
 - 👀 I’m interested in doing websites :)
-- 🌱 I’m currently learning Symfony 5.
+- 🌱 I’m currently learning React and my goal is to learn MERN stack.
 
 
 <!---
