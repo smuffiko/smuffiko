@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Lucie Poláchová.
 - 👀 I’m interested in doing websites :)
-- 🌱 I just finished Udemy course - MERN stack, and I'm making my first apps.
+- 🌱 I just finished Udemy course - MERN stack, and I'm making my first app - Scholé - live: https://schole-next.vercel.app/
