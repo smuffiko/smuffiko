@@ -1,3 +1,4 @@
 - 👋 Hi, I’m Lucie Poláchová.
 - 👀 I’m interested in doing websites :)
-- 🌱 I just finished Udemy course - MERN stack, and I'm making my first app - Scholé - live: https://schole-next.vercel.app/
+- 🌱 I finished Udemy course - MERN stack, and I did my first app - Scholé - live: https://schole-next.vercel.app/
+- ⚔️ Now (2023) I am making a web game using React+Next with my friend. The game is set to world of Aldenor, check https://www.tesaks.com/ or our discord https://discord.gg/wKv3F9TuXY
